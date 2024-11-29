@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reservations - Loook Fast Food</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo"><img src="images/logo.png" alt="Loook Logo"></div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="reservations.html">Reservations</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="reservations-section">
+            <h1>Make an Reserve</h1>
+            <p>We are happy to accommodate your reservation requests. Please fill out the form below to reserve a table at Loook Fast Food.</p>
+
+            <form id="reservationForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="phone">Phone:</label>
+                <input type="tel" id="phone" name="phone" required>
+                
+                <label for="date">Date:</label>
+                <input type="date" id="date" name="date" required>
+                
+                <label for="time">Time:</label>
+                <input type="time" id="time" name="time" required>
+                
+                <label for="guests">Number of People:</label>
+                <input type="number" id="guests" name="guests" min="1" required>
+                
+                <button type="submit">Reserve</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+          This website was created to fulfill Web Technology module’s requirements
+          and does not represent an actual company or service.
+        </p>
+      </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
