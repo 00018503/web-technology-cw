@@ -55,6 +55,10 @@ Special thanks to [loook.uz](https://loook.uz) for providing the images and menu
 
 This project is for educational purposes only and is not licensed for commercial use.
 
-## Github link
+## Github Link
 
 https://github.com/00018503/web-technology-cw
+
+## Website Link
+
+http://00018503-cw.rf.gd
