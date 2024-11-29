@@ -92,7 +92,7 @@ nav ul li a {
   display: flex;
 }
 .main-container {
-  width: 1300px;
+  max-width: 1300px;
 }
 
 .menu {
@@ -157,7 +157,7 @@ nav ul li a {
   transition: 0.4s;
 }
 .menu-section {
-  width: 1200px;
+  max-width: 1200px;
 }
 
 .menu-items-container {
@@ -192,7 +192,7 @@ form {
   display: flex;
   flex-direction: column;
   margin: auto;
-  width: 600px;
+  max-width: 600px;
 }
 form label {
   margin-top: 10px;
