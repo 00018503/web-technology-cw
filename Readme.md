@@ -1,15 +1,15 @@
-# Loook Fast Food Website
+# "Loook" Fast Food Website
 
-This project showcases a fast food restaurant website designed as part of a Web Technology module. The website is not associated with a real company and serves educational purposes only.
+This project showcases a fast food restaurant website created for Technology module. The website is not associated with a real company and serves educational purposes only.
 
 ## Website Overview
 
 The Loook Fast Food website features the following sections:
 
 - Home: An introduction to the restaurant and highlights of its offerings.
-- About Us: Background information about the restaurant.
+- About Us: Goals,visions and brief info about team.
 - Menu: A detailed list of menu items and their prices.
-- Gallery: Images showcasing the restaurant, its dishes, and ambiance.
+- Gallery: Images are put for showing the design and comfort and environment in the restaurant.
 - Reservations: A form for booking tables at the restaurant.
 - Contact: Contact information and a form for customer inquiries.
 
@@ -54,3 +54,7 @@ Special thanks to [loook.uz](https://loook.uz) for providing the images and menu
 ## License
 
 This project is for educational purposes only and is not licensed for commercial use.
+
+## Github link
+
+https://github.com/00018503/web-technology-cw
